@@ -1,9 +1,3 @@
-<img src="https://media0.giphy.com/media/p6iPHyrGYLiRq/giphy.gif?cid=790b7611844c2369297a7e574d768de733a9042f1600252e&rid=giphy.gif&ct=g" width="63%"> <img src="https://media.giphy.com/media/3o7btTydOQD77qjgOY/giphy.gif" width="36%">
-
-<img src="https://media.giphy.com/media/l3vRglypAmop7Lz2w/giphy.gif" width="44%"> <img src="https://media.giphy.com/media/dhQm449E6X6cU/giphy.gif" width="54%">
-
-https://media.giphy.com/media/l3vRglypAmop7Lz2w/giphy.gif
-
 ### Hello, it's Victoria 💚
 
 # I am a software engineer coming from the marketing analytics world.
@@ -47,3 +41,7 @@ My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kan
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+<img src="https://media0.giphy.com/media/p6iPHyrGYLiRq/giphy.gif?cid=790b7611844c2369297a7e574d768de733a9042f1600252e&rid=giphy.gif&ct=g" width="63%"> <img src="https://media.giphy.com/media/3o7btTydOQD77qjgOY/giphy.gif" width="36%">
+
+<img src="https://media.giphy.com/media/l3vRglypAmop7Lz2w/giphy.gif" width="44%"> <img src="https://media.giphy.com/media/dhQm449E6X6cU/giphy.gif" width="54%">
