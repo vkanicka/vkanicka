@@ -8,6 +8,8 @@ My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kan
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriakanicka/)
 [![Twitter](https://img.shields.io/badge/vkanicka-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VKanicka)
 [![Gmail](https://img.shields.io/badge/vkanicka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkanicka@gmail.com?subject=GitHub!)
+[![Medium](https://img.shields.io/badge/vkanicka-D14836?style=for-the-badge&logo=medium&logoColor=white)](https://vkanicka.medium.com/)
+
 
 ### 🔨 Current tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,6 +39,5 @@ My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kan
 
 ### 🎨 Creative Toolkit
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
