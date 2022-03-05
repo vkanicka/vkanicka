@@ -1,6 +1,6 @@
 ### Hello, it's Victoria 💚
 
-# I am a software engineer coming from the analytics world.
+# I am a software engineer coming from the marketing analytics world.
 
 My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kanicka.herokuapp.com/)
 
