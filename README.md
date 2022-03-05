@@ -32,7 +32,7 @@ My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kan
 ### 📚 2022 to-learn:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/vite-%2335495e.svg?style=for-the-badge&logo=vite&logoColor=%234FC08D)
 
 
 ### 🎨 Creative Toolkit
