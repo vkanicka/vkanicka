@@ -1,6 +1,6 @@
-### Hello, it's Victoria 💚
+### Hello, it's Victoria 🕊️🌱🎨
 
-# I am a software engineer coming from the marketing analytics world.
+# I am a software engineer with a background in marketing analytics and data visualization.
 
 My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kanicka.herokuapp.com/)
 
@@ -21,18 +21,18 @@ My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kan
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
 ### 🌱 I’m currently learning:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JSDoc](https://img.shields.io/badge/-JSDoc-E10098?style=for-the-badge&logo=jsdoc&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-E10098?style=for-the-badge&logo=svelte&logoColor=white)
 
 
-### 📚 2022 to-learn:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 📚 2023 to-learn:
+
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Vite](https://img.shields.io/badge/vite-%2335495e.svg?style=for-the-badge&logo=vite&logoColor=%234FC08D)
 
