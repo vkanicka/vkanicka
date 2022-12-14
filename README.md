@@ -35,7 +35,7 @@ My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kan
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Vite](https://img.shields.io/badge/vite-%2335495e.svg?style=for-the-badge&logo=vite&logoColor=%234FC08D)
-
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 🎨 Creative Toolkit
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
