@@ -2,7 +2,7 @@
 
 # I am a software engineer with a background in marketing analytics and data visualization.
 
-My site is live @ [https://victoria-kanicka.herokuapp.com/](https://victoria-kanicka.herokuapp.com/)
+My site is live @ [https://vkanicka.github.io/Portfolio23/](https://vkanicka.github.io/Portfolio23/)
 
 ### 📫 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriakanicka/)
