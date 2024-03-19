@@ -1,6 +1,6 @@
 ### Hello, it's Victoria 🕊️🌱🎨
 
-# I am a software engineer with a background in marketing analytics and data visualization.
+# I am a software engineer with a background in data analytics and visualization.
 
 My site is live @ [https://vkanicka.github.io/Portfolio23/](https://vkanicka.github.io/Portfolio23/)
 
@@ -25,17 +25,6 @@ My site is live @ [https://vkanicka.github.io/Portfolio23/](https://vkanicka.git
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-
-### 🌱 I’m currently learning:
-![Svelte](https://img.shields.io/badge/-Svelte-E10098?style=for-the-badge&logo=svelte&logoColor=white)
-
-
-### 📚 2023 to-learn:
-
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Vite](https://img.shields.io/badge/vite-%2335495e.svg?style=for-the-badge&logo=vite&logoColor=%234FC08D)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 🎨 Creative Toolkit
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
