@@ -1,6 +1,6 @@
 ### Hello, it's Victoria 🕊️🌱🎨
 
-# I am a software engineer with a background in data analytics and visualization.
+### I am a software engineer with a background in data analytics and visualization.
 
 My site is live @ [https://vkanicka.github.io/Portfolio23/](https://vkanicka.github.io/Portfolio23/)
 
